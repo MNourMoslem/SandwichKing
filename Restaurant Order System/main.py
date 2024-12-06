@@ -97,5 +97,6 @@ class Main(Screen):
     def run(self):
         self.window.mainloop()
 
-program = Main(wn, 'Restaurant Order System')
-program.run()
+if __name__ == '__main__':
+    program = Main(wn, 'Restaurant Order System')
+    program.run()
