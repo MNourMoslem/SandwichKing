@@ -1,0 +1,33 @@
+,Food,Price,Class,Description,Path
+0,Spinach and Artichoke Dip,10,Starters,A creamy warm dip made with spinach artichoke hearts and melted cheese. Served with tortilla chips or bread for dipping,Data\Dishes\Starters\Spinach and Artichoke Dip.jpg
+1,Buffalo Wings,12,Starters,Crispy chicken wings coated in a spicy sauce made with hot sauce and butter. Served with celery and blue cheese or ranch dressing,Data\Dishes\Starters\Buffalo Wings.jpg
+2,Garlic Bread with Mozzarella,8,Starters,Sliced bread rubbed with garlic and topped with melted mozzarella cheese. Often served as an appetizer or side dish,Data\Dishes\Starters\Garlic Bread with Mozzarella.jpg
+3,Onion Rings,7,Starters,"Thinly sliced onions coated in batter and fried until crispy. Served with dipping sauce, such as ketchup or ranch dressing",Data\Dishes\Starters\Onion Rings.jpg
+4,French Fries,5,Sides,Thinly sliced potatoes that are deep-fried until crispy. Often served as a side dish with burgers or sandwiches,Data\Dishes\Sides\French Fries.jpg
+5,Baked Potato,4,Sides,"A potato that is baked until the skin is crispy and the inside is soft and fluffy. Often served with toppings such as butter, sour cream, and cheese",Data\Dishes\Sides\Baked Potato.jpg
+6,Roasted Carrots,6,Sides,Carrots that are seasoned and roasted until tender and caramelized. Often served as a side dish,Data\Dishes\Sides\Roasted Carrots.jpg
+7,Steamed Broccoli,4,Sides,Broccoli that is lightly steamed until tender. Often served as a side dish or used as a ingredient in salads or stir-fries,Data\Dishes\Sides\Steamed Broccoli.jpg
+8,Caesar Salad,12,Salads,"A salad made with romaine lettuce, croutons, Parmesan cheese, and a dressing made with anchovies, garlic, and lemon juice.",Data\Dishes\Salads\Caesar Salad.jpg
+9,Greek Salad,14,Salads,"A salad made with lettuce, tomatoes, cucumbers, onions, feta cheese, and olives. Often served with a dressing made with olive oil and lemon juice.",Data\Dishes\Salads\Greek Salad.jpg
+10,Arugula and Beet Salad,15,Salads,"A salad made with arugula, roasted beets, goat cheese, and a vinaigrette dressing",Data\Dishes\Salads\Arugula and Beet Salad.jpg
+11,Fatosh,9,Salads,"A Middle Eastern salad made with tomatoes, cucumbers, onions, parsley, and mint, dressed with olive oil and lemon juice",Data\Dishes\Salads\Fatosh.jpg
+12,Tomato Basil Soup,8,Soups,"A soup made with tomatoes, basil, and other herbs and vegetables. Often served with a side of bread or crackers.",Data\Dishes\Soups\Tomato Basil Soup.jpg
+13,Chicken Noodle Soup,9,Soups,"A soup made with chicken, vegetables, and noodles. Often served as a comfort food or when someone is feeling under the weather.",Data\Dishes\Soups\Chicken Noodle Soup.jpg
+14,Black Bean Soup,10,Soups,"A soup made with black beans, vegetables, and spices. Often served with toppings such as sour cream, cheese, and avocado.",Data\Dishes\Soups\Black Bean Soup.jpg
+15,Mushroom Soup,15,Soups,"A soup made with mushrooms, onions, and cream. Often served as a vegetarian option.",Data\Dishes\Soups\Mushroom Soup.jpg
+16,Grilled Salmon,20,Main Course,A fillet of salmon that is grilled until crispy on the outside and tender on the inside. Often served with a side of vegetables or rice.,Data\Dishes\Main Course\Grilled Salmon.jpg
+17,Beef Stroganoff,22,Main Course,"A dish made with tender strips of beef, mushrooms, and sour cream sauce. Often served over egg noodles or rice.",Data\Dishes\Main Course\Beef Stroganoff.jpg
+18,Spaghetti Bolognese,19,Main Course,"A dish made with spaghetti pasta and a sauce made with ground beef, tomatoes, and herbs.",Data\Dishes\Main Course\Spaghetti Bolognese.jpg
+19,Lobster Bisque,20,Main Course,"A creamy soup made with lobster meat, cream, and other seasonings.",Data\Dishes\Main Course\Lobster Bisque.jpg
+20,Cheese Burger,15,Main Course,"A burger made with a beef patty and topped with cheese. Often served with toppings such as lettuce, tomato, and onion on a bun.",Data\Dishes\Main Course\Cheese Burger.jpg
+21,Sushi,19,Main Course,"A Japanese dish made with vinegar rice, raw fish or other seafood, and vegetables, wrapped in seaweed or served in small pieces.",Data\Dishes\Main Course\Sushi.jpg
+22,Chocolate Cake,9,Desserts,A cake made with chocolate and often topped with frosting or ganache. A popular dessert option.,Data\Dishes\Desserts\Chocolate Cake.jpg
+23,Cheesecake,10,Desserts,A dessert made with a graham cracker crust and a cream cheese filling. Often served with toppings such as fruit or chocolate sauce.,Data\Dishes\Desserts\Cheesecake.jpg
+24,Apple Pie,8,Desserts,"A pie made with apples, cinnamon, and sugar",Data\Dishes\Desserts\Apple Pie.jpg
+25,Ice Cream Sundae,6,Desserts,"A dessert made with a scoop or scoops of ice cream, often served with toppings such as chocolate syrup, whipped cream, and sprinkles.",Data\Dishes\Desserts\Ice Cream Sundae.jpg
+26,Fruit Salad,5,Desserts,"A salad made with a variety of fresh fruits, often served as a healthy and refreshing dessert option.",Data\Dishes\Desserts\Fruit Salad.jpg
+27,Soda,2,Drinks,"A carbonated beverage made with water, sugar, and artificial flavors. Often served in a variety of flavors such as cola, lemon-lime, and root beer.",Data\Dishes\Drinks\Soda.jpg
+28,Iced Tea,3,Drinks,"A beverage made with tea leaves, water, and sugar, chilled and served over ice. Often served in a variety of flavors, such as peach or raspberry.",Data\Dishes\Drinks\Iced Tea.jpg
+29,Coffee,3,Drinks,A beverage made with ground coffee beans and hot water. Often served with milk or cream and sugar.,Data\Dishes\Drinks\Coffee.jpg
+30,Milk Shake,5,Drinks,"A drink made with ice cream and milk, often flavored with fruit, chocolate, or other syrups. Served thick and creamy, often with whipped cream and a cherry on top.",Data\Dishes\Drinks\Milk Shake.jpg
+31,Hot Chocolate,4,Drinks,"A drink made with milk or water and chocolate, often served with whipped cream or marshmallows.",Data\Dishes\Drinks\Hot Chocolate.jpg
