@@ -1,8 +1,8 @@
-My First Big Project in Programming
+**My First Big Project in Programming**
 
 This is one of the first significant projects I built during my programming journey. Although it's an older project, I wanted to share it as a way to preserve and reflect on my progress.
 
-The project is a Restaurant Order System built using the Tkinter library in Python. To run the project, simply execute the main.py file after installing the necessary dependencies, such as Pandas and Tkinter.
+The project is a Restaurant Order System built using the **Tkinter** library in Python. To run the project, simply execute the ```main.py``` file after installing the necessary dependencies, such as **Pandas** and **Tkinter**.
 
 While I initially thought the OOP and the code implementation was a bit amateurish, revisiting the code made me realize it’s actually not bad at all! 😄.
 
