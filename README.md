@@ -12,3 +12,5 @@ Here are some images:
 ![img2](https://github.com/user-attachments/assets/07c4db94-a3a2-4914-accf-f87f272ea9a8)
 ![img3](https://github.com/user-attachments/assets/18c50e1c-fbeb-42db-8f5f-b389d4aba607)
 ![img4](https://github.com/user-attachments/assets/3f26cbb7-92d8-42ed-a2b7-e1451e4de622)
+
+And lastly, I just wanted to mention that the name has absolutely no relation to the restaurant itself—it's not limited to serving sandwiches. I just enjoy coming up with quirky names. 😄
